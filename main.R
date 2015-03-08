@@ -1,5 +1,3 @@
-#setwd("C:/Users/bwight/Dropbox/Learning/Coursera/Data Science/Exploratory Data Analysis/ExData_Plotting1")
-setwd("C:/Users/brad/Dropbox/Learning/Coursera/Data Science/Exploratory Data Analysis/ExData_Plotting1")
 
 library(data.table)
 
